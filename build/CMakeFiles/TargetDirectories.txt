@@ -1,0 +1,5 @@
+C:/Users/taski/Desktop/test/First-Test-Project/build/CMakeFiles/lib.dir
+C:/Users/taski/Desktop/test/First-Test-Project/build/CMakeFiles/program1.dir
+C:/Users/taski/Desktop/test/First-Test-Project/build/CMakeFiles/program2.dir
+C:/Users/taski/Desktop/test/First-Test-Project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/taski/Desktop/test/First-Test-Project/build/CMakeFiles/ZERO_CHECK.dir

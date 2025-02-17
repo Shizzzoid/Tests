@@ -1,0 +1,5 @@
+C:/Users/taski/Desktop/test/First-Test-Project/out/build/x64-Debug/CMakeFiles/lib.dir
+C:/Users/taski/Desktop/test/First-Test-Project/out/build/x64-Debug/CMakeFiles/program1.dir
+C:/Users/taski/Desktop/test/First-Test-Project/out/build/x64-Debug/CMakeFiles/program2.dir
+C:/Users/taski/Desktop/test/First-Test-Project/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/taski/Desktop/test/First-Test-Project/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
