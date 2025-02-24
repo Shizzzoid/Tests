@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/program1.dir/program1/main.cpp.o -o program1  -Wl,-rpath,/mnt/c/Users/taski/Desktop/test/First-Test-Project/build libmylib.so 
